@@ -15,7 +15,7 @@ function run(pagesToScrape) {
           request.abort();
         }
       });
-      await page.goto('https://news.ycombinator.com/');
+      await page.goto('<website_link_to_scrape>');
       let currentPage = 1;
       let urls = [];
       while (currentPage <= pagesToScrape) {
