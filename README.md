@@ -2,4 +2,4 @@
 
 ![puppeteer](./pupp.png)
 
-### To know more about **Puppeteer* visit the [docs].(https://developers.google.com/web/tools/puppeteer).
+### To know more about **Puppeteer** visit the [docs].(https://developers.google.com/web/tools/puppeteer).
